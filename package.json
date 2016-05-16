@@ -1,0 +1,10 @@
+{"name":"migo",
+ "description":"MiGo app core",
+ "repository":"https://github.com/espaciomore/MiGo.git",
+ "version":"0.1.0",
+ "license":"(MIT OR Apache-2.0)",
+ "email":"espaciomore@gmail.com",
+ "url":"http://migo.com.do/",
+ "engines":{"node":"0.10.44"},
+ "dependencies":{"migoservices":"./api"}
+}
